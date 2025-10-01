@@ -1,0 +1,6 @@
+venv
+certs
+start_gateway.sh
+start_simulator.sh
+devices.db
+add_device.sh
