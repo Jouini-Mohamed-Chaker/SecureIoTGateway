@@ -1,11 +1,5 @@
 # SecureIoTGateway Architecture
 
-## What's this project
-
-A security gateway that sits between IoT devices and a backend server. Devices send data through the gateway, which checks that messages are legitimate before forwarding them to the backend.
-
----
-
 ## Background: What is MQTT?
 
 **MQTT** (Message Queuing Telemetry Transport) is a lightweight messaging protocol designed for IoT devices. Think of it like a post office system:

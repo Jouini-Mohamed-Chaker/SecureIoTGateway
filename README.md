@@ -4,6 +4,12 @@ A security gateway that sits between IoT devices and a backend server, validatin
 
 ---
 
+## Check out my Blog post for more easy to understand explanation of all the concepts and protocols used in this project
+
+[https://jouini.dev/posts/secure-iot-gateway/](https://jouini.dev/posts/secure-iot-gateway/)
+
+---
+
 ## 📋 Table of Contents
 
 1. [Quick Start (Automated)](#quick-start-automated)
